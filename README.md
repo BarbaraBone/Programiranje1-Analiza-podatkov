@@ -29,5 +29,6 @@ Analizirala bom podatke o prvih 3000 knjig iz spletne strani: https://www.goodre
   <li><b>poberi_in_shrani_podatke.py</b>: program v pythonu, ki ob zagonu prebere spletno stran, izlošči podatke in jih shrani v .csv in .json datoteki</li>
   <li><b>knjige.csv</b>: csv datoteka, ki vsebuje naslovno vrstico in podatke vseh 3000 knjig. Datoteko dobimo ob pogonu poberi_in_shrani_podatke.py</li>
   <li><b>knjige.json</b>: json datoteka, ki vsebuje slovar podatkov o knjigah, vsaka knjiga je predstavljena s slovarjem, ki ima za ključe nadimek podatkov, za vrednosti pa ustrezen podatek za določeno knjigo. Datoteko dobimo ob pogonu poberi_in_shrani_podatke.py</li>
+  <li><b>obdelava.ipynb</b>: ipynb datoteka, ki vsebuje analizo podatkov s pomočjo knjižnice pandas, ki jo ponuja python. 
  </ul>
 
