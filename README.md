@@ -9,7 +9,6 @@ Analizirala bom podatke o prvih 3000 knjig iz spletne strani: https://www.goodre
   <li>naslov knjige,</li>
   <li>avtorja/avtorico,</li>
   <li>povprečno oceno knjige,</li>
-  <li>število uporabnikov, ki je knjigo ocenilo,</li>
   <li>število uporabnikov, ki je v volitvah pritrdilo, da morajo ljudje to knjigo obvezno prebrati</li>
  </ul>
  
